@@ -1,5 +1,5 @@
 require_relative '../esendex'
-include Esendex
+#include Esendex
 
 namespace :esendex do
   desc "Validates whether credentials are correct and returns message credit balance"
